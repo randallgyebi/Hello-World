@@ -1,4 +1,4 @@
-# Hello-World
+# Hello World
 This is my first GitHub repository
 I am Randall Gyebi. A civil engineering graduate diversifying 
 to data analytics and software engineering.
